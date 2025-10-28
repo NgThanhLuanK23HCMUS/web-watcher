@@ -1,4 +1,4 @@
-# 🛡️ Web Watcher
+# Web Watcher
 
 **Web Watcher** is a lightweight **Web Application Firewall (WAF)** written in **Go**.  
 It provides protection against common web security threats such as **SQL Injection**, **Cross-Site Scripting (XSS)**, and **brute-force or abusive requests** using **rate limiting** and **captcha-based verification**.
